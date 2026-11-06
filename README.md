@@ -1,4 +1,6 @@
-# AT-02 — Architecture relationnelle / Relational architecture
+> **Licence / License:** ce fichier contient des ajouts postérieurs au commit initial `cc634c24ea7b7642fbfdc911712065f4de5f0a1f`, placés sous CC BY-NC 4.0. Le contenu de la version initiale demeure sous CC BY 4.0. / This file contains additions made after the initial commit `cc634c24ea7b7642fbfdc911712065f4de5f0a1f`, licensed under CC BY-NC 4.0. The content of the initial version remains under CC BY 4.0.
+
+# AT-02 — Architecture relationnelle multi-agent / Relational multi-agent architecture
 
 ## Français
 
@@ -58,9 +60,9 @@ This proposal is not an audit of the local Harness code and does not describe it
 
 Les nouvelles contributions documentaires ajoutées après le commit initial `cc634c24ea7b7642fbfdc911712065f4de5f0a1f` sont mises à disposition sous licence [Creative Commons Attribution — Pas d’Utilisation Commerciale 4.0 International (CC BY-NC 4.0)](LICENSE.md). Elles peuvent être partagées et adaptées à des fins non commerciales ; tout usage commercial nécessite un accord séparé.
 
-Le contenu du [commit initial `cc634c24ea7b7642fbfdc911712065f4de5f0a1f`](https://github.com/Clovancis/at02-multi-agent-architecture/commit/cc634c24ea7b7642fbfdc911712065f4de5f0a1f) reste disponible sous CC BY 4.0. Les droits déjà accordés ne sont ni retirés ni révoqués. Voir [LICENSE.md](LICENSE.md) pour le détail des conditions.
+Le contenu du [commit initial `cc634c24ea7b7642fbfdc911712065f4de5f0a1f`](https://github.com/Clovancis/at02-multi-agent-architecture/commit/cc634c24ea7b7642fbfdc911712065f4de5f0a1f) reste disponible sous CC BY 4.0. Les droits déjà accordés ne sont ni retirés ni révoqués. Attribution : Clovancis (<https://github.com/Clovancis>). Pour toute demande de licence commerciale ou d’autorisation supplémentaire concernant les contributions CC BY-NC 4.0, contacter le titulaire des droits via ce profil. Une adaptation doit indiquer les modifications effectuées et ne doit pas laisser entendre qu’elle constitue une version officielle ou approuvée par AT-02 ou par le titulaire des droits. Voir [LICENSE.md](LICENSE.md) pour le détail des conditions.
 
 New documentary contributions added after the initial commit `cc634c24ea7b7642fbfdc911712065f4de5f0a1f` are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](LICENSE.md). They may be shared and adapted for noncommercial purposes; any commercial use requires a separate agreement.
 
-The content of the [initial commit `cc634c24ea7b7642fbfdc911712065f4de5f0a1f`](https://github.com/Clovancis/at02-multi-agent-architecture/commit/cc634c24ea7b7642fbfdc911712065f4de5f0a1f) remains available under CC BY 4.0. Rights already granted are not withdrawn or revoked. See [LICENSE.md](LICENSE.md) for the full terms.
+The content of the [initial commit `cc634c24ea7b7642fbfdc911712065f4de5f0a1f`](https://github.com/Clovancis/at02-multi-agent-architecture/commit/cc634c24ea7b7642fbfdc911712065f4de5f0a1f) remains available under CC BY 4.0. Rights already granted are not withdrawn or revoked. Credit: Clovancis (<https://github.com/Clovancis>). For any request for a commercial license or additional permission concerning the CC BY-NC 4.0 contributions, contact the rights holder through that profile. An adaptation must indicate the changes made and must not imply that it is an official version or has been approved by AT-02 or by the rights holder. See [LICENSE.md](LICENSE.md) for the full terms.
 
