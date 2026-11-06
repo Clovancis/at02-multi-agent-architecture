@@ -56,7 +56,11 @@ This proposal is not an audit of the local Harness code and does not describe it
 
 ## Licence / License
 
-Les documents de ce dépôt sont mis à disposition sous licence [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE.md).
+Les nouvelles contributions documentaires ajoutées après le commit initial `cc634c24ea7b7642fbfdc911712065f4de5f0a1f` sont mises à disposition sous licence [Creative Commons Attribution — Pas d’Utilisation Commerciale 4.0 International (CC BY-NC 4.0)](LICENSE.md). Elles peuvent être partagées et adaptées à des fins non commerciales ; tout usage commercial nécessite un accord séparé.
 
-The documents in this repository are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE.md).
+Le contenu du [commit initial `cc634c24ea7b7642fbfdc911712065f4de5f0a1f`](https://github.com/Clovancis/at02-multi-agent-architecture/commit/cc634c24ea7b7642fbfdc911712065f4de5f0a1f) reste disponible sous CC BY 4.0. Les droits déjà accordés ne sont ni retirés ni révoqués. Voir [LICENSE.md](LICENSE.md) pour le détail des conditions.
+
+New documentary contributions added after the initial commit `cc634c24ea7b7642fbfdc911712065f4de5f0a1f` are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](LICENSE.md). They may be shared and adapted for noncommercial purposes; any commercial use requires a separate agreement.
+
+The content of the [initial commit `cc634c24ea7b7642fbfdc911712065f4de5f0a1f`](https://github.com/Clovancis/at02-multi-agent-architecture/commit/cc634c24ea7b7642fbfdc911712065f4de5f0a1f) remains available under CC BY 4.0. Rights already granted are not withdrawn or revoked. See [LICENSE.md](LICENSE.md) for the full terms.
 
